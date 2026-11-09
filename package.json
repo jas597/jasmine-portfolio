@@ -1,0 +1,1 @@
+{"name":"jasmine-portfolio","private":true,"type":"module","scripts":{"build":"node build.mjs","check":"node --check public/app.js"},"engines":{"node":">=20"}}
